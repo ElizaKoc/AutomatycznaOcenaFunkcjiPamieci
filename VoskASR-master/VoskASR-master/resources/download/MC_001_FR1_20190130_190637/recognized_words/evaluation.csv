@@ -1,0 +1,4 @@
+trial_num;recognized_words;from_trial;from_session;off-list;mem_from_trial[%];mem_trial_from_recog_words[%];mem_session_from_recog_words[%]
+1;3;0;0;3;0.0;0.0;0.0
+3;10;0;0;10;0.0;0.0;0.0
+4;1;0;0;1;0.0;0.0;0.0
